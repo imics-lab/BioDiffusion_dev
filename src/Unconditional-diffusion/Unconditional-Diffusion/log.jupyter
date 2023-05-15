@@ -1,0 +1,17 @@
+[I 2023-05-15 11:37:33.268 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-05-15 11:37:33.270 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-05-15 11:37:33.488 ServerApp] notebook_shim | extension was successfully linked.
+[I 2023-05-15 11:37:33.506 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-05-15 11:37:33.506 LabApp] JupyterLab extension loaded from /home/x_l30/miniconda3/envs/PyTorch/lib/python3.10/site-packages/jupyterlab
+[I 2023-05-15 11:37:33.506 LabApp] JupyterLab application directory is /home/x_l30/miniconda3/envs/PyTorch/share/jupyter/lab
+[I 2023-05-15 11:37:33.508 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-05-15 11:37:33.511 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-05-15 11:37:33.511 ServerApp] Serving notebooks from local directory: /home/x_l30/Research/Unconditional-Diffusion
+[I 2023-05-15 11:37:33.511 ServerApp] Jupyter Server 1.23.5 is running at:
+[I 2023-05-15 11:37:33.511 ServerApp] http://localhost:6666/lab
+[I 2023-05-15 11:37:33.511 ServerApp]  or http://127.0.0.1:6666/lab
+[I 2023-05-15 11:37:33.511 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2023-05-15 11:37:33.514 ServerApp] No web browser found: could not locate runnable browser.
+[C 2023-05-15 11:41:16.586 ServerApp] received signal 15, stopping
+[I 2023-05-15 11:41:16.587 ServerApp] Shutting down 3 extensions
+[I 2023-05-15 11:41:16.587 ServerApp] Shutting down 0 terminals
