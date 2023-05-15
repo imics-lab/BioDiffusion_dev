@@ -36,8 +36,9 @@ conda activate <environment_name>
 <!-- USAGE -->
 ## Usage
 
-Please go to src folder.
-The unconditional, label conditional, and signal conditional scripts and instrucitons on how to run are there
+Please go to **src** folder.
+The unconditional, label conditional, and signal conditional scripts and instrucitons on how to run are there.
+In the **synthetic_data_exps** folder, there are some synthetic data examples and visualization examples. 
 
 
 
